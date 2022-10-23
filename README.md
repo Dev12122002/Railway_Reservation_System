@@ -1,2 +1,4 @@
-# Railway_Reservation_System
- Made in .NET Framework
+# RailWay-Reservation-System
+
+Technology - ASP.NET Framework
+Database - SQL Server
