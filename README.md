@@ -1,4 +1,4 @@
-# RailWay-Reservation-System
+# Railway-Reservation-System
 
 Technology - ASP.NET Framework
 Database - SQL Server
